@@ -1,7 +1,7 @@
 ### Hello! Welcome to my Github profile. 👋
 ## Olá, seja bem vindo! 😄
 
-- ✨ Sou técnica em informática e estudante do Curso de Análise e Desenvolvimento de Sistemas no IFPE. ✨
+✨ Sou técnica em informática e estudante do Curso de Análise e Desenvolvimento de Sistemas no IFPE. ✨
 
 
 
